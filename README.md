@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://mateusrissodiblasio.github.io/blog-preview-card/)
+- Live Site URL: [https://mateusrissodiblasio.github.io/blog-preview-card/](https://mateusrissodiblasio.github.io/blog-preview-card/)
 
 ## My process
 
