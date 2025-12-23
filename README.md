@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-card-layout-page-yqZ2j5ZsXh](https://www.frontendmentor.io/solutions/responsive-card-layout-page-yqZ2j5ZsXh)
 - Live Site URL: [https://mateusrissodiblasio.github.io/blog-preview-card/](https://mateusrissodiblasio.github.io/blog-preview-card/)
 
 ## My process
@@ -51,5 +51,5 @@ Improving Css skills and knowledge, so that eases to learn the newest styling co
 
 ## Author
 
-- Website - [Mateus Risso Di Blasio](https://github.com/MateusRissoDiBlasio)
+- GitHub - [Mateus Risso Di Blasio](https://github.com/MateusRissoDiBlasio)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
